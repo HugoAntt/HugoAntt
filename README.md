@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 3º Período
-- 😄 Desenvolvedor em desenvolvimento ...
+
 
 <div align="center">
   <a href="https://github.com/HugoAntt">
