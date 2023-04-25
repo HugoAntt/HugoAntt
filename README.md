@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 3º Período
+- 🔭 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 4º Período
 
 
 <div align="center">
