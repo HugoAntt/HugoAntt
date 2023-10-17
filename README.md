@@ -13,7 +13,7 @@
     
   ##
    
-   - 🛠 &nbsp;Tecnologias de interesse.
+   - 🛠 &nbsp;Tecnologias de interesse:
      
 <div> 
     <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
