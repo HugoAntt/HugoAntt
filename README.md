@@ -1,5 +1,10 @@
-### Opa! Eu sou o Hugo Antunes  👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hugo+Antunes!;Tenho+21+anos!;+Estou+no+5º+período+de+ADS.;Análise+e+Desenvolvimento+de+Sistemas.+:%29)](https://git.io/typing-svg)
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoAntt&bg_color=022206&color=e9e2e2&line=4eff1d&point=17fd68&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
 - 👨🏾‍💻 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 5º Período
@@ -33,6 +38,7 @@
 - 📞 &nbsp;Meus Contatos:
  
 <div> 
+
    <a href = "mailto:hugoantunesdasilvahugo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-antunes-da-silva-b0671a223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/hugoseilant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,3 +46,5 @@
 
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
