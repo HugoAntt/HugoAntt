@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 5º Período
+- 👨🏾‍💻 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 5º Período
 
 
 <div align="center">
@@ -10,18 +10,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAntt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAntt&layout=compact&langs_count=7&theme=merko"/>
 </div>
-
+    
   ##
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Hugo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Hugo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Hugo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   
+   - 🛠 &nbsp;Tecnologias de interesse.
+     
+<div> 
+    <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="C" height="30" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="center" alt="C#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt=".NET" height="30" width="80" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img align="center" alt="gitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="git" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
   
-  ##
+   ##
+
+- 📞 &nbsp;Meus Contatos:
  
 <div> 
    <a href = "mailto:hugoantunesdasilvahugo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
