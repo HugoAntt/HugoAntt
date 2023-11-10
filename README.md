@@ -11,10 +11,13 @@
 
 
 <div align="center">
-  <a href="https://github.com/HugoAntt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAntt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAntt&layout=compact&langs_count=7&theme=merko"/>
-</div>
+   <a href="https://github.com/HugoAntt">
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=merko&preferLogin=false">
+    <img  alt="HugoAntt's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/HugoAntt?cardType=github&theme=merko&preferLogin=false" />
+     </a> 
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAntt&layout=compact&langs_count=7&theme=merko"/>
+  
+ </div>
     
   ##
    
