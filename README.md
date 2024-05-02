@@ -7,7 +7,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoAntt&bg_color=022206&color=e9e2e2&line=4eff1d&point=17fd68&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
-- 👨🏾‍💻 Graduando em ADS(Análise e Desenvolvimento de Sistemas) - 5º Período
+- 👨🏾‍💻 Graduado em ADS(Análise e Desenvolvimento de Sistemas).
 
 
 <div align="center">
