@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hugo+Antunes!;+Sou+Formado+em+ADS.;Análise+e+Desenvolvimento+de+Sistemas.;+Fiz+parte+da+primeira+turma+do+Embarque+Digital.)](https://git.io/typing-svg)
 
@@ -7,8 +7,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HugoAntt&bg_color=022206&color=e9e2e2&line=4eff1d&point=17fd68&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
-- 👨🏾‍💻 Graduado em ADS(Análise e Desenvolvimento de Sistemas).
-
+- 👨🏾‍💻 Graduado em ADS (Análise e Desenvolvimento de Sistemas).
 
 <div align="center">
    <a href="https://github.com/HugoAntt">
@@ -35,8 +34,6 @@
     <img align="center" alt="flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="git" height="30" width="65" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="gitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    
-   
 </div>
   
    ##
@@ -44,12 +41,14 @@
 - 📞 &nbsp;Meus Contatos:
  
 <div> 
-
    <a href = "mailto:hugoantunesdasilvahugo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-antunes-da-silva-b0671a223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/hugoseilant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+##
+- &nbsp;Meus commits:
+  <div>
+![snake gif](https://github.com/HugoAntt/HugoAntt/blob/output/github-contribution-grid-snake.gif)
+  </div>
 
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
